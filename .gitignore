@@ -1,0 +1,21 @@
+# Compiled files
+target/
+
+# Rust toolchain
+.rustup/
+.cargo/
+
+# Generated files
+Cargo.lock
+Cargo.toml.orig
+*.rs.bk
+
+# IDE/editor files
+.idea/
+.vscode/
+*.swp
+
+# Logs
+log/
+*.log
+*.log.*
