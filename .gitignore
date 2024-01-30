@@ -4,6 +4,7 @@ target/
 # Rust toolchain
 .rustup/
 .cargo/
+.temp/
 
 # Generated files
 Cargo.lock
